@@ -1,6 +1,6 @@
 # shortDelete README
 
-Delete the file in the active text editor by shortcut.
+Vscode-Extension to delete the active editor file by shortcut.
 
 ## Shortcut
 - ```cmd+shift+d```
