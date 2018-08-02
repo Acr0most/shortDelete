@@ -10,7 +10,7 @@
     "categories": [
         "Other"
     ],
-    "icon": "images/shortDelete.png",
+    "icon": "images/shortDelete.jpg",
     "activationEvents": [
         "onCommand:extension.shortDelete"
     ],
