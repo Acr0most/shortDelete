@@ -2,7 +2,7 @@
     "name": "shortdelete",
     "displayName": "ShortDelete",
     "description": "Deleting files with shortcut from active editor",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "Acr0most",
     "engines": {
         "vscode": "^1.25.0"
